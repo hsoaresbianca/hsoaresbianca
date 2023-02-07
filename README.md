@@ -1,6 +1,22 @@
-<h1> Olá mundo!👋🏻🌎</h1>
-<p> Seja bem vindo(a) ao meu Github 😃</p>
-<p>Vou resumir a minha história para você. Tudo começou em 1998, quando eu nasci, BRINCADEIRA. Vamos para o que importa!</p>
-<p>Decidi fazer a transição da minha carreira para área de Tecnologia, em 2022. Por este motivo, em agosto de 2022, iniciei o curso tecnólogo em Análise e Desenvolvimento de Sistemas, que ainda está em andamento. Também estudo por meio de cursos online, especialmente pelos cursos ofertados pela Rocketseat e Alura.</p>
-<p>Os meus estudos estão 100% focados em front-end, desenvolvimento web, HTML, CSS e JavaScrip.</p>
-<p>Por enquanto, este é o resumo da minha história. Se você quiser conversar comigo é só me chamar no <a href="https://www.linkedin.com/in/hsoaresbianca/" target="_blank">LinkedIn</a>.</p>
+<h1> Olá!👋🏻</h1>
+
+<h2>Bem vindo(a) ao meu perfil!😃</h2>
+
+<h3> Um pouco sobre mim:</h3>
+<p>💡 Em 2022 decidi fazer a transição da minha carreira para área de Tecnologia.</p>
+<p>💻 Graduanda em Análise e Desenvolvimento de Sistemas. </p>
+<p>🤓 Também estudo por meio de cursos online, especialmente pelos cursos ofertados pela Rocketseat e Alura</p>
+<p>🎯 Os meus estudos no momento estão 100% focados em front-end, desenvolvimento Web, HTML, CSS e JavaScrip.</p>
+
+<h3>Curiosidades sobre mim:</h3>
+<p>❤☕ Amo café</p>
+<p>😺😸 Tenho dois gatos, o Frajola e o Garfield</p>
+
+<h3>Redes sociais:</h3>
+<p><a href="https://www.linkedin.com/in/hsoaresbianca/" target="_blank">LinkedIn</a></p>
+<p><a href="https://www.instagram.com/hsoaresbianca/" target="_blank">Instagram</a></p>
+<p><a href="https://twitter.com/hsoaresbianca" target="_blank">Twitter</a></p>
+
+<p>🚨Pode me chamar para conversar sem medo!🚨</p>
+
+<p>😉 Obrigada por ver o meu perfil. 😉</p>
