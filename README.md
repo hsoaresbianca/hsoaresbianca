@@ -3,7 +3,8 @@
 <h2>Bem vindo(a) ao meu perfil!😃</h2>
 
 <h3> Um pouco sobre mim:</h3>
-<p>💻 Estudante de tecnologia, cursando Análise e Desenvolvimento de Sistemas. </p>
+<p>💻 Cursando Análise e Desenvolvimento de Sistemas. </p>
+<p> 🤓 Estudando no momento: Lógica de Programação, Algoritmos, HTML, CSS e JavaScript
 <p>❤☕ Apaixonada por café </p>
 
 <h3>Redes sociais:</h3>
