@@ -1,8 +1,9 @@
 <h1> Olá! Bem vindo(a) ao meu perfil!</h1>
 
-<h2> Um pouco sobre mim:</h2>
-<p> 👩🏼‍💻 Cursando: Análise e Desenvolvimento de Sistemas. </p>
-<p> 🤓 Estudando: Lógica de Programação, Algoritmos, HTML, CSS e JavaScript
-<p> 💻 Acesse o meu perfil no <a href="https://www.linkedin.com/in/hsoaresbianca/" target="_blank">LinkedIn</a></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoaresbianca)](https://github.com/hsoaresbianca/github-readme-stats)
+
+<div>
+  <a href="https://www.linkedin.com/in/hsoaresbianca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       target="_blank"></a> 
+  <a href="https://instagram.com/hsoaresbianca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:biasoares.bianca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
