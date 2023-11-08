@@ -9,4 +9,4 @@
 ## Conecte-se comigo:
 📌 Estou animada com as possibilidades que a tecnologia oferece e estou pronta para contribuir em equipes dinâmicas e criativas. Também estou aberta a conexões, oportunidades de colaboração e aprendizado. Se você está interessado em me ajudar a crescer nesta nova fase da minha carreira, ou se compartilhamos interesses na tecnologia, ficarei feliz em me conectar.
 
-[![linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/hsoaresbianca/) [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hsoaresbianca)
+[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=ff0000)](https://www.linkedin.com/in/hsoaresbianca/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ff0000)](https://github.com/hsoaresbianca)
