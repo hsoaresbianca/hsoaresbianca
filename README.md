@@ -1,10 +1,16 @@
-# Olá, bem vindo(a) ao meu perfil! 
+# Olá! Bem vindo ao meu perfil! 😀
+
 ## Carreira e Estudos:
-📌 Atualmente em transição de carreira, da área jurídica para a área de tecnologia. Minhas experiências profissionais na área jurídica me proporcionaram valiosas competências e habilidades que complementam a minha jornada na área de tecnologia.
+📌 Atualmente em transição de carreira, da área jurídica para a área de tecnologia.
 
-📌 Busco oportunidades na área de tecnologia, seja como trainee, estagiária ou desenvolvedora júnior. Estou comprometida em aprimorar minhas habilidades e ampliar meu conhecimento técnico. Por estes motivos, estou cursando Análise e Desenvolvimento de Sistemas, com conclusão em agosto de 2024. Além disso, minha abordagem para adquirir habilidades técnicas também inclui a realização de cursos online.
+📌 Cursando Análise e Desenvolvimento de Sistemas, com conclusão em agosto de 2024.
 
+📌 Realizando cursos online pela Digital Innovation One (DIO) e outras.  
 
+## Objetivos:
+📌 Conquistar o meu primeiro emprego na área de tecnologia. Ganhar experiência profissional na área de tecnologia. Aplicar as minhas habilidades comportamentais e técnicas em prol da minha equipe. Continuar estudando para melhorar as minhas habilidades técnicas.
+
+## Linguagens:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoaresbianca)](https://github.com/hsoaresbianca/github-readme-stats)
 
 ## Conecte-se comigo:
