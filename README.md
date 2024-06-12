@@ -22,4 +22,8 @@
 ## Conecte-se comigo:
 📌 Estou aberta a conexões, oportunidades de colaboração e aprendizado. Se você está interessado em me ajudar a crescer nesta nova fase da minha carreira, ou se compartilhamos interesses na tecnologia, ficarei feliz em me conectar.
 
-[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/hsoaresbianca/)
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsoaresbianca/)
+
+## Entre em contato:
+[![gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biasoares.bianca@gmail.com) 
+<br>biasoares.bianca@gmail.com
