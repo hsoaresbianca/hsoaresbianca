@@ -3,7 +3,7 @@
 ## Carreira e Estudos:
 📌 Atualmente em transição de carreira, da área jurídica para a área de tecnologia.
 
-📌 Cursando Análise e Desenvolvimento de Sistemas, com conclusão em agosto de 2024.
+📌 Cursando Análise e Desenvolvimento de Sistemas, com conclusão em dezembro de 2024.
 
 📌 Realizando cursos online pela Digital Innovation One (DIO) e outras.  
 
