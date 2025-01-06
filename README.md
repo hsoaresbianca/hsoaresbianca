@@ -2,9 +2,9 @@
 
 📌 Atualmente em transição de carreira, da área jurídica para a área de tecnologia.
 
-📌 Cursando Análise e Desenvolvimento de Sistemas, com conclusão em dezembro de 2024.
+📌 Tecnólogo em Análise e Desenvolvimento de Sistemas concluída em dezembro de 2024.
 
-📌 Realizando cursos online pela Digital Innovation One (DIO) e outras.  
+📌 Realizando cursos online de programação e inglês pela Digital Innovation One (DIO).  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoaresbianca)](https://github.com/hsoaresbianca/github-readme-stats)
 
