@@ -1,11 +1,10 @@
 # Olá! Bem vindo ao meu perfil! 😀
+## Sobre:
+📌 Profissional organizada, comprometida e com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript e React.js.
 
-📌 Atualmente em transição de carreira, da área jurídica para a área de tecnologia.
+📌 Estou sempre buscando melhorar as minhas habilidades técnicas realizando cursos online e projetos pessoais.
 
-📌 Tecnólogo em Análise e Desenvolvimento de Sistemas concluída em dezembro de 2024.
-
-📌 Realizando cursos online de programação e inglês pela Digital Innovation One (DIO).  
-
+## Linguagens mais usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoaresbianca)](https://github.com/hsoaresbianca/github-readme-stats)
 
 ## Conecte-se comigo:
