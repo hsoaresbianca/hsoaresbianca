@@ -1,6 +1,6 @@
-# Olá! Bem vindo ao meu perfil! 😀
+# Olá, Mundo! 😀
 ## Sobre:
-📌 Profissional com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, React.js, TypeScript e Python.
+📌 Profissional com experiência em projetos pessoais na área de desenvolvimento web front-end, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript e React.js.
 
 📌 Estou sempre melhorando as minhas habilidades técnicas através de cursos online e projetos pessoais.
 
