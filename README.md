@@ -1,6 +1,5 @@
 ## Sobre:
-- Profissional em transição de carreira, da área jurídica para a área de tecnologia.
-- Busco o meu primeiro emprego como desenvolvedora.
+- Profissional em transição de carreira. Em busca do meu primeiro emprego como desenvolvedora.
 - Por meio de projetos pessoais, possuo experiência em desenvolvimento web front-end.
 - Tenho conhecimentos técnicos nas seguintes tecnologias: HTML, CSS, JavaScript, TypeScript, React.Js, Git, Github, VSCode e Figma.
 - Estou sempre melhorando as minhas habilidades técnicas através de cursos online e de projetos pessoais.
